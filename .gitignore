@@ -27,7 +27,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -39,3 +38,4 @@ next-env.d.ts
 #test_db
 data
 migrations
+config.bat
